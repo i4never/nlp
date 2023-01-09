@@ -1,0 +1,3 @@
+from mesoorflow.common.registrable import import_all_modules_for_register
+
+import_all_modules_for_register()
